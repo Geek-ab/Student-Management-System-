@@ -1,2 +1,2 @@
 # proj1
-student management system using c++,oops
+Using Fundamentals of c++ and oops,i created a student management system.
